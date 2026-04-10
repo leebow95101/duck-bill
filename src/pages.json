@@ -1,0 +1,89 @@
+{
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^u-(.*)": "uview-plus/components/u-$1/u-$1.vue",
+      "^up-(.*)": "uview-plus/components/u-$1/u-$1.vue"
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/bills/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/stats/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/budget/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/categories/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/accounts/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/recurring/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/backup/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/theme/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/about/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/edit-bill/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "记账鸭",
+    "navigationBarBackgroundColor": "#F7F8FC",
+    "backgroundColor": "#F7F8FC"
+  }
+}
