@@ -1,4 +1,4 @@
-# 记账鸭 · `ledger-mini`
+# 记账鸭 · `duck-bill`
 
 一个基于 `uni-app + Vue 3 + Pinia + uView Plus` 的简约风中文记账小程序，主打轻量记账、主题统一、页面简洁，以及适配微信小程序的使用体验。
 
