@@ -10,7 +10,7 @@ onLaunch(() => {
 </script>
 
 <style lang="scss">
-@import '@/uni.scss';
+@use '@/uni.scss' as *;
 
 page {
   background: var(--color-background, #f7f8fc);
